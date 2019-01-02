@@ -2,7 +2,7 @@ from edinet_xbrl.edinet_xbrl_parser import EdinetXbrlParser
 
 parser = EdinetXbrlParser()
 
-xbrl_file_path ="C:\\Users\\Inagaki_Daisuke\\Downloads\\Xbrl_Search_20190102_141659"
+xbrl_file_path ="任意のディレクトリ"
 edinet_xbrl_object = parser.parse_file(xbrl_file_path)
 
 key = "jppfs_cor:Assets"
