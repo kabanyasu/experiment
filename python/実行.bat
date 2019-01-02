@@ -1,0 +1,1 @@
+@py.exe C:\Users\Inagaki_Daisuke\Documents\GitHub\experiment\python %*
